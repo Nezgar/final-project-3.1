@@ -1,0 +1,1018 @@
+Sat Jun 10 11:06:52 2023 - SBomber::SBomber was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 47
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 16
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 15
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:52 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:52 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 16
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 15
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 16
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 15
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:53 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:53 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 16
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 15
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 15
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 16
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 16
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:54 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:54 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 15
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 15
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 16
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 15
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:55 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:55 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 16
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 16
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 15
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 16
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 16
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:56 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:56 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 15
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 16
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 15
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 16
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:57 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:57 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::TimeFinish deltaTime = 16
+Sat Jun 10 11:06:58 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:58 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:58 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:58 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:58 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:58 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::TimeFinish deltaTime = 31
+Sat Jun 10 11:06:58 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:58 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::TimeFinish deltaTime = 15
+Sat Jun 10 11:06:58 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::DrawFrame was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::MoveObjects was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::CheckObjects was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::TimeFinish deltaTime = 32
+Sat Jun 10 11:06:58 2023 - SBomber::TimeStart was invoked
+Sat Jun 10 11:06:58 2023 - SBomber::DrawFrame was invoked
